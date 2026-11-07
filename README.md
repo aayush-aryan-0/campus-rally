@@ -26,4 +26,4 @@ Events live in the `EVENTS` array in `script.js`. Filtering re-renders the card 
 Open `index.html` in a browser.
 
 ## Live site
-<paste your deployed link here>
+[Visit Campus Rally](https://campus-rally.vercel.app/)
