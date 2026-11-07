@@ -114,7 +114,7 @@ The project does not require any installation, dependencies, or build process.
 1. Clone the repository:
 
    ```bash
-   git clone <https://github.com/aayush-aryan-0/campus-rally>
+   git clone https://github.com/aayush-aryan-0/campus-rally
    ```
 
 2. Navigate to the project directory:
